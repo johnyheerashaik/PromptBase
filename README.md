@@ -46,7 +46,7 @@ Provide: performance issue breakdown, optimization strategies (memoization, lazy
 **MISSION 4 — Build production-grade UI like a senior frontend engineer**
 When asked to build a new feature or component, act like a senior frontend engineer building production-grade UI for a real government financial system used by thousands of internal users. Create:
 - Reusable, composable components using CoreUI Pro and @core/core-fe-ui-controls
-- SCSS Modules with BEM-style class names, using : global() only when overriding library internals
+- SCSS Modules with BEM-style class names, using :global() only when overriding library internals
 - Scalable component architecture with clear separation of concerns (custom hooks, presentational vs container components)
 - Accessible, WCAG-compliant interfaces with proper ARIA attributes
 
